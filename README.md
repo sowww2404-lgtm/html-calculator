@@ -63,9 +63,7 @@ html-calculator/
 
 ## 📄 Project Report
 
-The complete project report is available here:
-
-👉 [View Calculator Project Report](Calculator-Report.pdf)
+The complete project report is available in the pdf
 
 ## 🎯 Project Outcome
 
